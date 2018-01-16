@@ -1,5 +1,4 @@
-This is the instrument control program associated with the publication 
-The Journal of Chemical Physics 148, 123316 (2018); https://doi.org/10.1063/1.5009134
+GeneralPurposeSOS is a program for instrument control of an optical microscope (The Journal of Chemical Physics 148, 123316 (2018); https://doi.org/10.1063/1.5009134). The program is developed by Hao Li in the Haw Yang Lab at Princeton University.   
 
 Programming language: LabVIEW 2015 (http://www.ni.com/labview)
 
