@@ -1,3 +1,6 @@
+This is the instrument control program associated with the publication 
+The Journal of Chemical Physics 148, 123316 (2018); https://doi.org/10.1063/1.5009134
+
 Programming language: LabVIEW 2015 (http://www.ni.com/labview)
 
 External library functions required for running the program:
@@ -8,3 +11,5 @@ External library functions required for running the program:
 When you install the Andor SDK on a computer with LabVIEW installed, the SDK DLL and LabVIEW files will automatically copied into the LabVIEW installation directory. 
 
 For LibTiff and Thorlabs functions to be used, one need to manually place the DLL and LabVIEW files into the LabVIEW installation directory. LabVIEW files need to be placed in the “user.lib” folder in the LabVIEW directory. 
+
+Please contact Hao Li (haoli@princeton.edu) if you have any questions. 
